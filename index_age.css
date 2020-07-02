@@ -32,3 +32,21 @@ body {
 .go-right{
   
 }
+
+.poem
+{
+    /* Configure your background, layout, etcetera here */
+}
+
+
+.poem ul, .poem ol
+{
+    list-style-type: none;
+}
+
+.poem li
+{
+  font-family:Times New Roman;
+  font-style:italic;
+  padding-bottom: 0.1em;
+}
